@@ -3,4 +3,4 @@ Mexico City's metro is one of the largest in the world, the system served 1.655 
 
 
 # Data:
-The data to be used in this project include a list of Mexico City's metro station along with their respectives coordinates, which will be scraped from Wikipedia. Furthermore, Foursquare's API will be employed to explore venues around each station and learn more about each spacific area surrounding each statio. 
+The data to be used in this project include a list of Mexico City's metro stations, which will be scraped from Wikipedia. Furthermore, Foursquare's API will be employed to explore venues around each station and learn more about each specific area surrounding each station. 
